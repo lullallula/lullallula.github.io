@@ -12,7 +12,7 @@ page_sections:
   - link: "#features"
     link_text: Features
   - link: "#pricing"
-    link_text: Pricing
+    link_text: contact
   - link: "#team"
     link_text: Team
   cta:
