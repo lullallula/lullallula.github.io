@@ -13,14 +13,14 @@ page_sections:
     link_text: About 룰랄루라
   - link: "#pricing"
     link_text: 검사ㄱ
-  - link: "#diary"ㅈㅇ
+  - link: "#diary"
     link_text: 다이어리
 #  - link: "#team"
 #    link_text: Team
 
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: 룰랄루라 <br><strong>Scon Diary</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
