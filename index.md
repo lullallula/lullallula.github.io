@@ -8,16 +8,16 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: 홈
   - link: "#features"
-    link_text: Features
+    link_text: About 룰랄루라
   - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
-  cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    link_text: 검사ㄱ
+  - link: "#diary"ㅈㅇ
+    link_text: 다이어리
+#  - link: "#team"
+#    link_text: Team
+
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
