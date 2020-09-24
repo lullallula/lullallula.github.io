@@ -8,11 +8,13 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: 홈
   - link: "#features"
-    link_text: Features
+    link_text: About 룰랄루라
   - link: "#pricing"
-    link_text: contact
+    link_text: 검사 
+  - link: "#diary"
+    link_text: 다이어리
  # - link: "#team"
  #   link_text: Team
   cta:
