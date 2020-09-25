@@ -28,7 +28,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'Diary 더 알아보기'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: <img src="https://drive.google.com/file/d/1YevMI8ye0jxCW6K5q_BnnH7XSxpdeimZ/view?usp=sharing" width="90%"></img>
+
+5. README.md에 복붙 하면 끝!
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
