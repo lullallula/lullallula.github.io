@@ -20,13 +20,13 @@ page_sections:
 
 - template: hero-banner-w-image
   block: hero-2
-  headline: 룰랄루라 <br><strong>Scon Diary</strong>
+  headline: 룰랄루라 <br><strong>SCON Diary</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'Diary 더 알아보기' 
+    button_text: Diary 더 알아보기
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
