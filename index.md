@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'Diary 더 알아보기'
   image:
-    image: ![검사.jpg](https://drive.google.com/file/d/1YevMI8ye0jxCW6K5q_BnnH7XSxpdeimZ/view?usp=sharing)
+    image: 
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
