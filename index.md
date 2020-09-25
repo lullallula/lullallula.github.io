@@ -12,7 +12,7 @@ page_sections:
   - link: "#features"
     link_text: About 룰랄루라
   - link: "#pricing"
-    link_text: 검사ㄱ
+    link_text: 검사
   - link: "#diary"
     link_text: 다이어리
 #  - link: "#team"
@@ -26,7 +26,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: 'Diary 더 알아보기' 
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
